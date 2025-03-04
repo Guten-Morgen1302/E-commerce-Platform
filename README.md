@@ -32,7 +32,7 @@ To run this platform locally, follow these steps:
 Ensure the following tools are installed:
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [MongoDB](https://www.mongodb.com/) or your preferred database.
+- [MongoDB](https://www.mongodb.com/)
 
 ### Setup Instructions
 
