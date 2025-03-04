@@ -38,4 +38,4 @@ Ensure the following tools are installed:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/ecommerce-platform.git
+   git clone https://github.com/Guten-Morgen1302/ecommerce-platform.git
