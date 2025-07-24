@@ -1,4 +1,5 @@
 import type React from "react"
+import Chatbot from '../components/Chatbot/Chatbot'; // Adjust path based on your actual file structure
 import type { Metadata } from "next"
 import { Inter } from "next/font/google"
 import "./globals.css"
@@ -24,6 +25,8 @@ export default function RootLayout({
         <Header />
         <main className="min-h-screen">{children}</main>
         <Footer />
+        {children}
+        <Chatbot /> 
       </body>
     </html>
   )
